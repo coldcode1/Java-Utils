@@ -31,6 +31,7 @@ public class CompareDiffClassUtils {
                 return false;
             }
         }
+
         return true;
     }
 
